@@ -1,2 +1,2 @@
 # wiki
-知识库
+This project is used to collect personal knowledge.
